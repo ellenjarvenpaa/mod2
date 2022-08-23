@@ -7,4 +7,4 @@ luoti += naula*32
 massa = luoti*13.3
 gramma = massa/1000
 
-print("massa nykymittojen mukaan: {:.1f} kilogrammaa ja {:.3f}".format(gramma, massa))
+print("massa nykymittojen mukaan: {:.0f} kilogrammaa ja {:.3f} grammaa".format(gramma, massa))
