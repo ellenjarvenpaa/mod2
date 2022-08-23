@@ -1,2 +1,2 @@
-käyttäjä = input("Anna nimesi")
-print("Hei," + käyttäjä +"!")
+käyttäjä = input("Anna nimesi\n")
+print("Hei, " + käyttäjä +"!")
